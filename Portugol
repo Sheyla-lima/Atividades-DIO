@@ -1,0 +1,23 @@
+Programa
+{
+  
+Função inicio ()
+{
+
+  real janeiro,fevereiro,marco,abril
+	cadeia vendedor
+	escreva("Nome do vendedor")
+	leia(vendedor)
+	escreva("Digite suas vendas de Janeiro")
+	leia(janeiro)
+	escreva("Digite suas vendas de Fevereiro")
+	leia(fevereiro)
+	escreva("Digite suas vendas de Março")
+	leia(marco)
+	escreva("Digite suas vendas de Abril")
+	leia(abril)
+  
+  media=("janeiro+fevereiro+marco+abril")
+  escreva("Vendedor + " Sua média de Vendas foi" + media)
+ } 
+ }
